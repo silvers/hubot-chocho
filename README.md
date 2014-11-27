@@ -1,4 +1,4 @@
-hubot-lgtm
+hubot-chocho
 ==========
 
 A hubot script to manage air-conditioner area in office.
