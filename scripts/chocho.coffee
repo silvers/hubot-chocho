@@ -1,6 +1,6 @@
 # Description:
 #   This robot is 空調調太郎 a.k.a chocho.
-#   Counting hot/cold members for reccomend air-conditioner setting in office.
+#   Counting hot/cold members for recommend air-conditioner setting in office.
 #
 # Dependencies:
 #   "lodash": "~2.4.1"
